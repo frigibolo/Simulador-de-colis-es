@@ -7,7 +7,7 @@
 
 #define HZ 60 //Framerate
 #define OBJECTS "teste1.txt" //Nome do arquivo texto utilizado para adicionar os objetos
-#define E 0 //Coeficiente de restituicao
+#define E 1 //Coeficiente de restituicao
 #define SCREEN_W 1000 //Largura da tela do simulador
 #define SCREEN_H 600 //Altura da tela do simulador
 
