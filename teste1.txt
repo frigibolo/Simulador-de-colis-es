@@ -1,0 +1,13 @@
+12
+radius: 15.0, mass: 10.0, posiX: 80.0, posiY: 240.0, vlctX: 140.0, vlctY: 0.0
+radius: 15.0, mass: 10.0, posiX: 560.0, posiY: 240.0, vlctX: -140.0, vlctY: 0.0
+radius: 15.0, mass: 10.0, posiX: 320.0, posiY: 60.0, vlctX: 0.0, vlctY: 120.0
+radius: 15.0, mass: 10.0, posiX: 320.0, posiY: 420.0, vlctX: 0.0, vlctY: -120.0
+radius: 18.0, mass: 15.0, posiX: 100.0, posiY: 80.0, vlctX: 110.0, vlctY: 85.0
+radius: 18.0, mass: 15.0, posiX: 540.0, posiY: 400.0, vlctX: -110.0, vlctY: -85.0
+radius: 12.0, mass: 8.0, posiX: 100.0, posiY: 400.0, vlctX: 110.0, vlctY: -85.0
+radius: 12.0, mass: 8.0, posiX: 540.0, posiY: 80.0, vlctX: -110.0, vlctY: 85.0
+radius: 20.0, mass: 25.0, posiX: 180.0, posiY: 240.0, vlctX: 90.0, vlctY: 0.0
+radius: 20.0, mass: 25.0, posiX: 460.0, posiY: 240.0, vlctX: -90.0, vlctY: 0.0
+radius: 14.0, mass: 10.0, posiX: 320.0, posiY: 140.0, vlctX: 0.0, vlctY: 80.0
+radius: 14.0, mass: 10.0, posiX: 320.0, posiY: 340.0, vlctX: 0.0, vlctY: -80.0
